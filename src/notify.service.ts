@@ -28,6 +28,10 @@ export class NotifyService implements OnInit {
         this.log(message, "success", wait);
     }
 
+    warn(message: string, wait: number): void {
+        this.log(message, "warn", wait);
+    }
+
     error(message: string, wait: number): void {
         this.log(message, 'error', wait);
     }

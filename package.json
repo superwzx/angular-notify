@@ -1,0 +1,25 @@
+{
+  "name": "angular-notify",
+  "version": "1.0.0",
+  "description": "Angular Notification System",
+  "main": "index.js",
+  "dependencies": {
+    "@angular/common": "~2.2.1",
+    "@angular/core": "~2.2.1"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superwzx/angular-notify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superwzx/angular-notify/issues"
+  },
+  "homepage": "https://github.com/superwzx/angular-notify#readme"
+}

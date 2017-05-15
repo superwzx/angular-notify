@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es5",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "inlineSourceMap": true,
+    "declaration": true,
+    "outDir": "",
+    "rootDir": "./src"
+  },
+  "exclude": [
+    "node_modules",
+    "demo",
+    "bundles",
+    "components",
+    "directives",
+    "src/test",
+    "**/*.spec.ts"
+  ]
+}
